@@ -9,6 +9,8 @@ Must include
 -Switch Solution from "ALL_BUILD" to "ASSIGNMENT2_VULKAN"
 -XTime files provided in Assets
 
+Zipped file contains all project files, the files included here are for reference for viewers to explore my code
+
 CAMERA CONTROLS
 W - Forwards
 S - Backwards
@@ -26,5 +28,3 @@ TAB - Cycle through the levels
 
 Rubric  - CORE FEATURES - ALL 				    -COMPLETED
         - KEY FEATURES  - Hot-Swapping, Instancing, Minimap -COMPLETED
-	- ADVANCED FEATURES - Create an in-level "TV" 	    -NOT COMPLETED
-	- BONUS FEATURES - GMUSIC&GSOUND		    -NOT COMPLETED
